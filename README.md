@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ Aircraft Predictive Maintenance Using Machine Learning
 
 A machine learning-based aircraft predictive maintenance project that analyzes aircraft engine sensor data to predict **Remaining Useful Life (RUL)** and support proactive maintenance planning.
@@ -143,3 +144,6 @@ Data-driven maintenance decisions
 This project is developed for educational and machine learning project purposes using the NASA C-MAPSS dataset.
 
 The predictions produced by the models are intended for experimental and academic analysis and should not be used as a substitute for certified aircraft maintenance procedures or safety-critical decision-making.
+=======
+
+>>>>>>> 8ee6cbd935ae1b502299f84eb26a5c83987ba7bf
